@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "846013768914",
+    "project_id": "chatapptute-2b493",
+    "storage_bucket": "chatapptute-2b493.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846013768914:android:3b81fdc558c8106314b90b",
+        "android_client_info": {
+          "package_name": "com.example.appchat_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAESbUP2_nh3BYqe8Rss0NjfA4KD3_ehVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
